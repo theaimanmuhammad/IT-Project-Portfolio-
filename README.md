@@ -7,6 +7,7 @@
 ## LinkedIN Profile
 [Connect with me on linkedin](www.linkedin.com/in/theaimanmuhammad)
 
+## Description
 Welcome to my IT Project Portfolio. This repository showcases hands-on projects and technical labs demonstrating my foundational experience in systems administration, network infrastructure, and cybersecurity.
 
 Projects
