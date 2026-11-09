@@ -1,5 +1,5 @@
 # IT-Project-Portfolio-
-“Hands on IT projects demonstrating skills in systems administration, network infrastructure, and cybersecurity.
+Hands on IT projects demonstrating skills in systems administration, network infrastructure, and cybersecurity.
 
 ## Complete Project Portfolio 
 [View my complete IT Project Portfolio here](https://github.com/theaimanmuhammad/IT-Project-Portfolio-/blob/main/Aiman%20Muhammad%20IT%20and%20Infrastructure%20Project%20Portfolio.pdf)
